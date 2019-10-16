@@ -1,5 +1,5 @@
 
-# Hackathon: Create a Meetup alternative for SG Dev Groups
+# Hackathon: Create a better Meetup for SG Devs
 #### When: 26-27 October 2019
 #### Time: 12PM Saturday - 12PM Sunday
 #### Where: HackerspaceSG (344B King George's Ave, Singapore 208576, [Map](https://goo.gl/maps/ZuYMsrPNRypouSer6))
